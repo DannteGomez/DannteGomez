@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I am Dannte!</h1>
 
 <p align="center">
-  <img src="descarga.jpg" width="700">
+  <img src="banner_1.jpg" width="700">
 </p>
 
 
