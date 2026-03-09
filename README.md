@@ -1,6 +1,8 @@
 <h1 align="center">Hello, I am Dannte!</h1>
 
-![image](https://user-images.githubusercontent.com/70807684/126077765-4f1f96ab-c054-4412-9f3a-1c977129a312.png)
+<p align="center">
+  <img src="descarga.jpg" width="700">
+</p>
 
 
 [![GitHub followers](https://img.shields.io/github/followers/AvidCoder101.svg?style=social&label=Followers)](https://github.com/AvidCoder101?tab=followers)
