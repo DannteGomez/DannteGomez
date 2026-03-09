@@ -25,12 +25,6 @@
 
 ------
 
-### Here's my Codewars stats:
-
-<img src= "https://www.codewars.com/users/edu_Itis/badges/micro" width= "200"/>
-
-------
-
 ### Thank you for visiting my profile 
 
 ------
