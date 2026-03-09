@@ -23,15 +23,14 @@
 <a href="https://www.facebook.com/share/1aRwyoYTcG/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anderson_mend53" height="30" width="40" /></a>
 <a href="https://www.reddit.com/u/Global_Hedgehog1466/s/LvYhDCjSQl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="anderson_mend53" height="30" width="40" /></a>
 
-
-
 ------
 
-### Here's my github README stats:
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DannteGomez&theme=radical)](https://git.io/streak-stats) 
+### <img src="https://media0.giphy.com/media/cNZqrH5IzOG0xrlWks/giphy.gif?cid=ecf05e47map255q427en9uprqc1sb0unjq5k4fnqg5pmhhs4&rid=giphy.gif&ct=s" width="50px">  Here's my github README stats:
+<div align="center">
+<img src="http://github-readme-streak-stats.herokuapp.com?user=DannteGomez&theme=algolia&background=0d1117&hide_border=true" /></div>
 
 ------
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Thank you for visiting my profile
 
-### Thank you for visiting my profile 
 
 
