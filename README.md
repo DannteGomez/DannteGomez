@@ -30,7 +30,7 @@
 <img src="http://github-readme-streak-stats.herokuapp.com?user=DannteGomez&theme=algolia&background=0d1117&hide_border=true" /></div>
 
 ------
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Thank you for visiting my profile
+### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="80px">Thank you for visiting my profile
 
 
 
