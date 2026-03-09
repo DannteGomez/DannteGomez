@@ -12,11 +12,10 @@
 ------
 <h3> Here's some fun facts about me: </h3>
 
-- I am a ***HUGE Harry Potter fan***⚡🧙🏻‍♂️
-- I'm a hopeful web and app developer 👩🏻‍💻
-- I am a true science lover 🔬
-- Finally, I'm a football-watching frenzy ⚽!
-- I'm the founder of [the CodingContributorsLair Organization](https://github.com/CodingContributorsLair/)
+- I am currently studying to become a systems engineer 👩🏻‍💻
+- I'm training to be a **frontend developer** 📚
+- I like to draw ✏️
+- The Hunger Games movies are very good!🐦
 
 ------
 ### My social media
