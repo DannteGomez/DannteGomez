@@ -20,6 +20,8 @@
 
 ------
 ### My social media
+<a href="https://www.instagram.com/alex_dannte?igsh=MWxkNmhtaXNtNDN2Yw==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anderson_mend53" height="30" width="40" /></a>
+
 ------
 
 ### Here's my github README stats:
